@@ -1,72 +1,114 @@
-[
-  {
-    "name": "Jannik Sinner",
-    "ranking": 1,
-    "country": "Italy",
-    "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/3623.png",
-    "flagUrl": "https://flagcdn.com/w80/it.png"
-  },
-  {
-    "name": "Carlos Alcaraz",
-    "ranking": 2,
-    "country": "Spain",
-    "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/3782.png",
-    "flagUrl": "https://flagcdn.com/w80/es.png"
-  },
-  {
-    "name": "Alexander Zverev",
-    "ranking": 3,
-    "country": "Germany",
-    "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/2375.png",
-    "flagUrl": "https://flagcdn.com/w80/de.png"
-  },
-  {
-    "name": "Taylor Fritz",
-    "ranking": 4,
-    "country": "USA",
-    "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/2946.png",
-    "flagUrl": "https://flagcdn.com/w80/us.png"
-  },
-  {
-    "name": "Jack Draper",
-    "ranking": 5,
-    "country": "Great Britain",
-    "photoUrl": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/primary/stc8htewjknfbg8mfha4",
-    "flagUrl": "https://flagcdn.com/w80/gb.png"
-  },
-  {
-    "name": "Novak Djokovic",
-    "ranking": 6,
-    "country": "Serbia",
-    "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/296.png",
-    "flagUrl": "https://flagcdn.com/w80/rs.png"
-  },
-  {
-    "name": "Ben Shelton",
-    "ranking": 7,
-    "country": "USA",
-    "photoUrl": "https://www.atptour.com/-/media/alias/player-headshot/S0S1",
-    "flagUrl": "https://flagcdn.com/w80/us.png"
-  },
-  {
-    "name": "Lorenzo Musetti",
-    "ranking": 8,
-    "country": "Italy",
-    "photoUrl": "https://a.espncdn.com/i/headshots/tennis/players/full/3764.png",
-    "flagUrl": "https://flagcdn.com/w80/it.png"
-  },
-  {
-    "name": "Holger Rune",
-    "ranking": 9,
-    "country": "Denmark",
-    "photoUrl": "https://www.atptour.com/-/media/alias/player-headshot/R0DG",
-    "flagUrl": "https://flagcdn.com/w80/dk.png"
-  },
-  {
-    "name": "Andrey Rublev",
-    "ranking": 10,
-    "country": "Russia",
-    "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/2642.png",
-    "flagUrl": "https://flagcdn.com/w80/ru.png"
-  }
-]
+{
+  "players": [
+    {
+      "name": "Jannik Sinner",
+      "ranking": 1,
+      "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/3623.png",
+      "countryID": "b0c99c9e-3b69-4ec6-9c30-512d2b7a935b"
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "ranking": 2,
+      "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/3782.png",
+      "countryID": "1a7b55e9-0ea5-49a5-8d49-933f0ff7772a"
+    },
+    {
+      "name": "Alexander Zverev",
+      "ranking": 3,
+      "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/2375.png",
+      "countryID": "3f680d9e-9aa3-447a-b038-47e7d1c47fc7"
+    },
+    {
+      "name": "Taylor Fritz",
+      "ranking": 4,
+      "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/2946.png",
+      "countryID": "6f7e14cf-bc5f-4cf2-a7b7-b0d2583bbca3"
+    },
+    {
+      "name": "Jack Draper",
+      "ranking": 5,
+      "photoUrl": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/primary/stc8htewjknfbg8mfha4",
+      "countryID": "26836dc5-f2e4-4e46-9427-f5c0a5dc84ae"
+    },
+    {
+      "name": "Novak Djokovic",
+      "ranking": 6,
+      "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/296.png",
+      "countryID": "27fd03e3-3950-403f-8a47-35c1b7fd1f6e"
+    },
+    {
+      "name": "Ben Shelton",
+      "ranking": 7,
+      "photoUrl": "https://www.atptour.com/-/media/alias/player-headshot/S0S1",
+      "countryID": "6f7e14cf-bc5f-4cf2-a7b7-b0d2583bbca3"
+    },
+    {
+      "name": "Lorenzo Musetti",
+      "ranking": 8,
+      "photoUrl": "https://a.espncdn.com/i/headshots/tennis/players/full/3764.png",
+      "countryID": "b0c99c9e-3b69-4ec6-9c30-512d2b7a935b"
+    },
+    {
+      "name": "Holger Rune",
+      "ranking": 9,
+      "photoUrl": "https://www.atptour.com/-/media/alias/player-headshot/R0DG",
+      "countryID": "9e59cb49-e7d7-4c3d-aaf8-027e9dd73034"
+    },
+    {
+      "name": "Andrey Rublev",
+      "ranking": 10,
+      "photoUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/2642.png",
+      "countryID": "00b7fd67-4b3a-4dfb-a59b-e2dfcebb44f5"
+    }
+  ],
+  "countries": [
+    {
+      "id": "b0c99c9e-3b69-4ec6-9c30-512d2b7a935b",
+      "name": "Italy",
+      "code": "it",
+      "flagUrl": "https://flagcdn.com/w80/it.png"
+    },
+    {
+      "id": "1a7b55e9-0ea5-49a5-8d49-933f0ff7772a",
+      "name": "Spain",
+      "code": "es",
+      "flagUrl": "https://flagcdn.com/w80/es.png"
+    },
+    {
+      "id": "3f680d9e-9aa3-447a-b038-47e7d1c47fc7",
+      "name": "Germany",
+      "code": "de",
+      "flagUrl": "https://flagcdn.com/w80/de.png"
+    },
+    {
+      "id": "6f7e14cf-bc5f-4cf2-a7b7-b0d2583bbca3",
+      "name": "USA",
+      "code": "us",
+      "flagUrl": "https://flagcdn.com/w80/us.png"
+    },
+    {
+      "id": "26836dc5-f2e4-4e46-9427-f5c0a5dc84ae",
+      "name": "Great Britain",
+      "code": "gb",
+      "flagUrl": "https://flagcdn.com/w80/gb.png"
+    },
+    {
+      "id": "27fd03e3-3950-403f-8a47-35c1b7fd1f6e",
+      "name": "Serbia",
+      "code": "rs",
+      "flagUrl": "https://flagcdn.com/w80/rs.png"
+    },
+    {
+      "id": "9e59cb49-e7d7-4c3d-aaf8-027e9dd73034",
+      "name": "Denmark",
+      "code": "dk",
+      "flagUrl": "https://flagcdn.com/w80/dk.png"
+    },
+    {
+      "id": "00b7fd67-4b3a-4dfb-a59b-e2dfcebb44f5",
+      "name": "Russia",
+      "code": "ru",
+      "flagUrl": "https://flagcdn.com/w80/ru.png"
+    }
+  ]
+}
